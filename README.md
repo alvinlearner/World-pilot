@@ -3,8 +3,8 @@
 
 <img src="./src/cover.png" alt="cover">
 
-#### Thursday, April 06  2023
-#### By **Alvin Kenyagah**
+#### Wednesday, July 26  2023
+#### By **Alvin Odhiambo**
 
 ## Description
 World-Topic is a platform that allows users to search for topics they are interested in and the application fetches links to articles related to the search query using data fetched from <a href="https://newscatcherapi.com/">NewsCatcher API</a>.
@@ -17,11 +17,11 @@ World-Topic is a platform that allows users to search for topics they are intere
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript, Bootstrap and jQuery. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details
-My contact is alvin47k@gmail.com suppose you come across any challenges or would like to give your feedback and suggestions. 
+My contact is alvin47k@outlook.com suppose you come across any challenges or would like to give your feedback and suggestions. 
 ### License
 MIT License
 
-Copyright (c) [2023] [Alvin Kenyagah]
+Copyright (c) [2023] [Alvin Odhiambo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
