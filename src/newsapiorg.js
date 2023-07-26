@@ -21,10 +21,12 @@ window.addEventListener("DOMContentLoaded", () => {
 
 
 
-
+    let category = document.getElementById("category").value;
     let topic = document.getElementById("topic").value;
-
-    let url = `https://newsapi.org/v2/everything?q=${topic}&apiKey=${api}`;
+    console.log(category);
+    
+    let url = `https://newsapi.org/v2/everything?q=${topic} ${category}&apiKey=${api}`;
+    
 
     fetch(url)
     .then((res) => res.json())
